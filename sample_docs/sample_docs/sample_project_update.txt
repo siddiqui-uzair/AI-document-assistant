@@ -1,0 +1,5 @@
+The team reviewed the weekly project report. Two wells have missing dashboard data.
+
+Akash will verify the SQL logic by Friday. Deepak will review the Planning KPI report before next weeks final review.
+
+The team also discussed privacy risks when using AI tools with company files
