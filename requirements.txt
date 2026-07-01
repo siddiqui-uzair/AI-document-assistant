@@ -1,4 +1,4 @@
 streamlit
 python-dotenv
 pypdf
-google-genai
+groq
